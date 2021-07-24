@@ -14,4 +14,4 @@
 * [x] 21.07.21(수) 웹2 CSS 1~5 CSS가 나온 배경, style tag, html sytle property
 * [ ] 21.07.22
 * [ ] 21.07.23
-* [ ] 21.07.24
+* [x] 21.07.24(토) 웹2 CSS 6 property
