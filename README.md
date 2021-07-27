@@ -18,7 +18,7 @@
 
 ### 3주차
 * [x] 21.07.26(월) 웹2 CSS 7,8 selector, box model
-* [ ] 21.07.27
+* [x] 21.07.27(화) 웹2 CSS 9~16 div tag, grid, box, media query, code re-use
 * [ ] 21.07.28
 * [ ] 21.07.29
 * [ ] 21.07.30
