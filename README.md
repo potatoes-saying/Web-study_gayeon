@@ -21,7 +21,7 @@
 * [x] 21.07.27(화) 웹2 CSS 9~16 div tag, grid, box, media query, code re-use
 * [ ] 21.07.28
 * [x] 21.07.29(목) 웹2 JavaScript 1~3 JavaScript란 무엇인지, script 
-* [ ] 21.07.30
+* [x] 21.07.30(금) 웹2 JavaScript 4~5 event, console Js 실행
 * [ ] 21.07.31
 
 ### 4주차
