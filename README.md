@@ -58,8 +58,8 @@
   
 ### 5주차
 
-* [x] 21.08.09(월) WEB2 JavaScript 17~18 programming이란, toggle button 만들기
-* [ ] 21.08.10
+* [x] 21.08.09(월) WEB2 JavaScript 13~17 programming이란, toggle button 만들기
+* [x] 21.08.10(화) WEB2 JavaScript 18~22 this, 배열, 반복문 
 * [ ] 21.08.11
 * [ ] 21.08.12
 * [ ] 21.08.13
