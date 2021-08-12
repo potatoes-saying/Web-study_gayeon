@@ -61,6 +61,6 @@
 * [x] 21.08.09(월) WEB2 JavaScript 13~17 programming이란, toggle button 만들기
 * [x] 21.08.10(화) WEB2 JavaScript 18~22 this, 배열, 반복문 
 * [x] 21.08.11(수) WEB2 JavaScript 23~27 함수
-* [ ] 21.08.12
+* [x] 21.08.12(목) WEB2 JavaScript 28~32 객체 
 * [ ] 21.08.13
 * [ ] 21.08.14
