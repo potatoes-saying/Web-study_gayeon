@@ -62,5 +62,5 @@
 * [x] 21.08.10(화) WEB2 JavaScript 18~22 this, 배열, 반복문 
 * [x] 21.08.11(수) WEB2 JavaScript 23~27 함수
 * [x] 21.08.12(목) WEB2 JavaScript 28~32 객체 
-* [ ] 21.08.13
+* [x] 21.08.13(금) WEB2 JavaScript 33~38 file 수납, jQuery library, ui vs. api
 * [ ] 21.08.14
